@@ -1,6 +1,6 @@
 <script>
 window.dataLayer = window.dataLayer || []
 dataLayer.push({
-  'event': 'location-details-submit'
+  'event': 'location_details_submit'
 });
 </script>
